@@ -1,0 +1,12 @@
+Xdebug.ini
+==========
+
+It's a Xdebug Config file from [my blog](http://rancoud.over-blog.com/configure-xdebug-for-developement)
+
+It contains parameters for:
+* stack trace,
+* profiler,
+* trace,
+* remote debugging with Sublime Text 3
+
+There is commentary on each directives.
